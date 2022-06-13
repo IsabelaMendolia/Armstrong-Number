@@ -1,7 +1,7 @@
 # Armstrong-Number
 Number Theory Exercise
 
-Number Theory : the Narcissist Number
+Number Theory : the Narcissist Number a.k.a the Armstrong number
 in a given number base {b} is a number that is the sum of its own digits each raised to the power of the number of digits.
 
 In Example:
