@@ -20,7 +20,7 @@ Examples :
 9474 = 94 + 44 + 74 + 44;
 93084 = 95 + 35 + 05 + 85 + 45.
 
-Write a Python program that; takes a positive integer number from the user, 
+This exercise was to write a Python program that; takes a positive integer number from the user, 
 checks the entered number if it is Armstrong,
 considers the negative, float and any entries other than numeric 
 values then displays a warning or update status message to the user.
